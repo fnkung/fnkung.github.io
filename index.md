@@ -2,7 +2,7 @@
 University of California, Berkeley  
 Goldman School of Public Policy, MPP 2024
 
-![headshot](/Kung headshot pride June 2023.jpg | height = 100px)
+<img src = "Kung headshot pride June 2023.jpg" height="360">
 
 Kung Feng is a Masters in Public Policy candidate at UC Berkeley and a graduate student researcher with the Technology and Work program at the UC Berkeley Labor Center where he is analyzing the implications of the California Consumer Privacy Act for workers. His current research interests lie at the intersection of technology and work and include workers' data rights and AI regulation. He was previously the executive director of Jobs with Justice San Francisco, a labor community alliance organizing around worker rights, affordable housing and climate justice. 
 
